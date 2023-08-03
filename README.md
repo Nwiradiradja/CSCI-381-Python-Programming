@@ -2,7 +2,6 @@
 
 
 ## Sea Level Project
-### Tools Used
 * Pycharm
 * Scikit
 * MATPLOT
