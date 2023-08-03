@@ -33,17 +33,17 @@
 * After creating a visual for the analysis I created a correlation matrix as seen on image 20. Using the correlation matrix and seeing the value of .19 or 19%, it's safe to say that the movie income and it's score has no correlation
 
 Image 1:
-
+![](https://github.com/Nwiradiradja/Python-Programming/blob/main/MovieProject/Import_Export/Import_Load.png?raw=true)
 Image 2:
-
+![](https://github.com/Nwiradiradja/Python-Programming/blob/main/MovieProject/Import_Export/Import_Load.png?raw=true)
 Image 3:
-
+![](https://github.com/Nwiradiradja/Python-Programming/blob/main/MovieProject/DataCleansing/Remove1.png?raw=true)
 Image 4:
-
+![](https://github.com/Nwiradiradja/Python-Programming/blob/main/MovieProject/DataCleansing/Remove2.png?raw=true)
 Image 5:
-
+![](https://github.com/Nwiradiradja/Python-Programming/blob/main/MovieProject/DataCleansing/Remove3.png?raw=true)
 Image 6:
-
+![](
 Image 7:
 
 Image 8:
