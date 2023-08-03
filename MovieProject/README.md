@@ -61,6 +61,7 @@ Image 13:
 Image 14:
 ![](https://github.com/Nwiradiradja/Python-Programming/blob/main/MovieProject/FurtherAnalysis/MoviesPerYear_Line.png?raw=true)
 Image 15:
+
 ![](https://github.com/Nwiradiradja/Python-Programming/blob/main/MovieProject/FurtherAnalysis/AverageScore_Bar.png?raw=true)
 Image 16:
 ![](https://github.com/Nwiradiradja/Python-Programming/blob/main/MovieProject/FurtherAnalysis/MovieBudgetMinMax_Line.png?raw=true)
