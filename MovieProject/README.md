@@ -63,6 +63,7 @@ Image 14:
 Image 15:
 
 ![](https://github.com/Nwiradiradja/Python-Programming/blob/main/MovieProject/FurtherAnalysis/AverageScore_Bar.png?raw=true)
+
 Image 16:
 ![](https://github.com/Nwiradiradja/Python-Programming/blob/main/MovieProject/FurtherAnalysis/MovieBudgetMinMax_Line.png?raw=true)
 Image 17:
