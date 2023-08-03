@@ -13,7 +13,7 @@
 * Using Pandas to Create Scatter Plot for Correlation Analysis
 
 ## Explanation
-* Firstly I want to import pandas and load the data as seenn on image 1
+* Firstly I want to import pandas and load the data as seen on image 1
 * After loading and importing I want to review the data by checking the dataframe. I check rows and columns by the shape and I check the data types as well as seen on image 2. I am also able to check the individual columns for each row for an example genres
 * Now to perform data cleansing I want to remove 3 columns. "movie_imdb_link", "num_critic_for_reviews" and "genre". To do so I first review the data as seen on image 3. Then i perform a data.drop with the axis as 1 for columns and establishing what column I want to drop as seen on image 4. I perform the same method for the other two columns as seen on image 5
 * Now I want to check the data frame shape to ensure the columns were removed. As seen before we had 14 rows, after looking at image 6 you can see the column count dropped to 11
@@ -43,31 +43,32 @@ Image 4:
 Image 5:
 ![](https://github.com/Nwiradiradja/Python-Programming/blob/main/MovieProject/DataCleansing/Remove3.png?raw=true)
 Image 6:
-![](
+![](https://github.com/Nwiradiradja/Python-Programming/blob/main/MovieProject/DataCleansing/Shape_ChangeDataType.png?raw=true)
 Image 7:
-
+![](https://github.com/Nwiradiradja/Python-Programming/blob/main/MovieProject/DataCleansing/AfterChangeDataType.png?raw=true)
 Image 8:
-
+![](https://github.com/Nwiradiradja/Python-Programming/blob/main/MovieProject/DataCleansing/Rename.png?raw=true)
 Image 9:
-
+![](https://github.com/Nwiradiradja/Python-Programming/blob/main/MovieProject/DataAnalysis-Histograms_DistributionAnlysis/Duration_Histogram.png?raw=true)
 Image 10:
-
+![](https://github.com/Nwiradiradja/Python-Programming/blob/main/MovieProject/DataAnalysis-Histograms_DistributionAnlysis/IMDB_Histogram.png?raw=true)
 Image 11
-
+![](https://github.com/Nwiradiradja/Python-Programming/blob/main/MovieProject/DataAnalysis-Histograms_DistributionAnlysis/IMDBLessThan4.png?raw=true)
 Image 12:
-
+![](https://github.com/Nwiradiradja/Python-Programming/blob/main/MovieProject/DataAnalysis-Histograms_DistributionAnlysis/USARating_Histogram.png?raw=true)
 Image 13:
-
+![](https://github.com/Nwiradiradja/Python-Programming/blob/main/MovieProject/FurtherAnalysis/MoviesPerYear.png?raw=true)
 Image 14:
-
+![](https://github.com/Nwiradiradja/Python-Programming/blob/main/MovieProject/FurtherAnalysis/MoviesPerYear_Line.png?raw=true)
 Image 15:
-
+![](https://github.com/Nwiradiradja/Python-Programming/blob/main/MovieProject/FurtherAnalysis/AverageScore_Bar.png?raw=true)
 Image 16:
-
+![](https://github.com/Nwiradiradja/Python-Programming/blob/main/MovieProject/FurtherAnalysis/MovieBudgetMinMax_Line.png?raw=true)
 Image 17:
-
+![](https://github.com/Nwiradiradja/Python-Programming/blob/main/MovieProject/FurtherAnalysis/Correlation.png?raw=true)
 Image 18:
-
+![](https://github.com/Nwiradiradja/Python-Programming/blob/main/MovieProject/FurtherAnalysis/DropNonValues.png?raw=true)
 Image 19:
-
+![](https://github.com/Nwiradiradja/Python-Programming/blob/main/MovieProject/FurtherAnalysis/Score_Income_Scatter.png?raw=true)
 Image 20:
+![](https://github.com/Nwiradiradja/Python-Programming/blob/main/MovieProject/FurtherAnalysis/CorrelationMatrix.png?raw=true)
