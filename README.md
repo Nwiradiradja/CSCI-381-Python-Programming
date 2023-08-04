@@ -20,7 +20,6 @@
 
 ## Movie Project
 * Jupyter Notebook
-* Python
 * MATPLOT
 * pandas
 ### Topics Covered
@@ -28,3 +27,14 @@
 * Data Visulization
 * Data Correlation
 
+## Car Crashes in NYC
+* Streamlit
+* Pycharm
+* pandas
+* numpy
+* pydeck
+* plotly
+### Topics Covered
+* Data Visualization
+* Data Analysis
+* Data cLeaning
