@@ -37,4 +37,4 @@
 ### Topics Covered
 * Data Visualization
 * Data Analysis
-* Data cLeaning
+* Data cleaning
